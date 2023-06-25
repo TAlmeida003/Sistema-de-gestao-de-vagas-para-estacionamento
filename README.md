@@ -20,8 +20,7 @@ acontecerá no Kit LEDS-CPLD, utilizando, principalmente, os conceitos e conteú
 
 * O protótipo deve conter uma interface de exibição do mapa de vagas do estacionamento de acordo com a figura 1.
 
-![Alt text](<Imagens/Exemplo de mapa de estacionamento.png>)
-
+![Alt text](Imagens/Exemplo-de-mapa-de-estacionamento.png)
 # **Demonstração da Aplicação**
 
 A interface de simulação é feita inteiramente através da utilização das chaves presentes no kit LEDS-CPLD e os sinais resultantes, por sua vez, serão expostos na matriz de led e no display de 7 segmentos, também presentes no kit.
@@ -30,7 +29,7 @@ A interface de simulação é feita inteiramente através da utilização das ch
 
 Cada chave estará relacionada com um led em uma determinada posição na matriz, totalizando a representação de 8 vagas de estacionamento. Portanto, a chave, ao ser acionada, mandará um sinal que acenderá um led da matriz indicando que aquela suposta vaga está ocupada. 
 
-![Alt text](<Imagens/posição da matriz de LED.png>)
+![Alt text](Imagens/posi%C3%A7%C3%A3o-da-matriz-de-LED.png)
 
 Funcionamento do protótipo para gestão de vagas de estacionamento com as primeiras 6 vagas ocupadas.
 
