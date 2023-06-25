@@ -30,7 +30,8 @@ A interface de simulação é feita inteiramente através da utilização das ch
 
 Cada chave estará relacionada com um led em uma determinada posição na matriz, totalizando a representação de 8 vagas de estacionamento. Portanto, a chave, ao ser acionada, mandará um sinal que acenderá um led da matriz indicando que aquela suposta vaga está ocupada. 
 
-![Alt text](Imagens/posição-da-matriz-de-LED.png)
+![Alt text](Imagens/posicao-da-matriz-de-LED.png)
+
 
 Funcionamento do protótipo para gestão de vagas de estacionamento com as primeiras 6 vagas ocupadas.
 
